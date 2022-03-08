@@ -2,7 +2,7 @@
 
 ## 谈谈对IOC的理解
 
-控制反转：原来的对象是使用者进行控制，有了spring容器之后由Spring容器进行管理。
+IOC也就是控制反转，原来的对象是使用者进行控制，有了Spring容器之后由Spring容器进行管理。
 
 DI ：依赖注入，把对应属性的值注入进去例如@Autowired，构造器注入等
 
@@ -55,6 +55,7 @@ SpringBean是形成Spring应用主干的Java对象，可以被SpringIOC容器初
 7：此时，bean已经准备就绪，可以被应用程序使用了，它们将一直驻留在应用上下文中，直到该应用上下文被销毁；（可以通过getBean获得）
 
 8：如果bean实现了DisposableBean接口，Spring将调用它的destroy()接口方法。同样，如果bean使用destroy-method声明了销毁方法，该方法也会被调用。
+
 ## Spring是如何解决循环依赖的问题的
 
 bean创建流程图如下
@@ -174,3 +175,4 @@ return beanInstance;
 }
 
 ```
+### 三级缓存是怎么解决循环依赖的？

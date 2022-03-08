@@ -14,5 +14,13 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Q"
+    }
   ]
 }
