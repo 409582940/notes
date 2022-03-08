@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "a11y-light"
+  ],
+  "translucency": false
+}
