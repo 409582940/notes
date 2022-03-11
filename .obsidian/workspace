@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/MySQL 索引.md",
+            "file": "MySQL/MySQL 锁.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/MySQL 索引.md",
+                "file": "MySQL/MySQL 锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "69d81331de06b520",
   "lastOpenFiles": [
-    "MySQL/MySQL 索引.md",
-    "MySQL/MySQL 事务.md",
     "MySQL/MySQL 锁.md",
+    "MySQL/MySQL 索引.md",
+    "MySQL/MySQL 分区表.md",
+    "MySQL/MySQL 事务.md",
     "MySQL/MySQL 执行计划.md",
     "Elasticsearch/倒排索引.md",
     "Spring Boot/Spring Boot 启动过程.md",
     "Java基础/ArrayList.md",
     "Java基础/LinkedList.md",
-    "Java基础/Stream.md",
-    "计算机网络/TCP.md"
+    "Java基础/Stream.md"
   ]
 }
