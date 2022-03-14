@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL/MySQL 锁.md",
+            "file": "MySQL/InnoDB.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5eb9eb9756f2f2f",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/MySQL 锁.md",
+                "file": "MySQL/InnoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "69d81331de06b520",
   "lastOpenFiles": [
-    "MySQL/MySQL 锁.md",
+    "MySQL/InnoDB.md",
+    "Pasted image 20220314144611.png",
+    "MySQL/MySQL 体系结构与存储引擎.md",
     "MySQL/MySQL 索引.md",
+    "MySQL/MySQL 锁.md",
     "MySQL/MySQL 分区表.md",
     "MySQL/MySQL 事务.md",
     "MySQL/MySQL 执行计划.md",
     "Elasticsearch/倒排索引.md",
-    "Spring Boot/Spring Boot 启动过程.md",
-    "Java基础/ArrayList.md",
-    "Java基础/LinkedList.md",
-    "Java基础/Stream.md"
+    "Spring Boot/Spring Boot 启动过程.md"
   ]
 }
