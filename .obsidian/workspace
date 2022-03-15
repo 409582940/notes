@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "8871442895374de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2711aed3ef04bbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MySQL/InnoDB.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2c46d2696102cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65ad15080d86f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b357ea9c3e45157e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eb30e42463f6488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "034267efc8a6ef0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d7da9ddb81b6489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a754358bfbdd5e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MySQL/InnoDB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e2711aed3ef04bbc",
+  "lastOpenFiles": [
+    "MySQL/InnoDB.md",
+    "MySQL/MySQL 事务.md",
+    "MySQL/MySQL 体系结构与存储引擎.md"
+  ]
+}
