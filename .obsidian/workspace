@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redis/Redis 数据结构与对象.md",
+            "file": "Spring/源码/Spring MVC 请求执行过程.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "034267efc8a6ef0b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Redis 数据结构与对象.md",
+                "file": "Spring/源码/Spring MVC 请求执行过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "eb93e9f4ea7564ae",
   "lastOpenFiles": [
-    "Redis/Redis 数据结构与对象.md",
-    "Redis/RDB.md",
-    "Redis/AOF.md",
-    "Redis/redis的IO模型和多路复用.md",
-    "JVM/运行时内存区域.md",
-    "MySQL/MySQL 索引.md",
-    "MySQL/MySQL 锁.md",
-    "Mybatis/MyBatis 缓存.md",
-    "算法和数据结构/基础算法模板.md",
-    "Redis/Redis 哨兵.md"
+    "Spring/源码/Spring MVC 请求执行过程.md",
+    "Spring/源码/Spring 传播特性.md",
+    "Spring/源码/Spring 声明式事务的运行流程.md",
+    "Spring/源码/Spring 注解配置的注解配置的声明式事务处理.md",
+    "Spring/源码/Spring 事务配置文件的加载和对象的创建.md",
+    "Spring/源码/Spring AOP.md",
+    "Spring/源码/Spring bean.md",
+    "Spring/源码/Spring 消息资源和监听器的初始化.md",
+    "Spring/源码/Spring bean工厂.md",
+    "Spring/源码/Spring 自定义标签解析.md"
   ]
 }
