@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Redis/AOF.md",
+            "file": "Redis/Redis 数据结构与对象.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "034267efc8a6ef0b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/AOF.md",
+                "file": "Redis/Redis 数据结构与对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "eb93e9f4ea7564ae",
   "lastOpenFiles": [
+    "Redis/Redis 数据结构与对象.md",
+    "Redis/RDB.md",
     "Redis/AOF.md",
     "Redis/redis的IO模型和多路复用.md",
-    "Redis/RDB.md",
     "JVM/运行时内存区域.md",
     "MySQL/MySQL 索引.md",
     "MySQL/MySQL 锁.md",
     "Mybatis/MyBatis 缓存.md",
     "算法和数据结构/基础算法模板.md",
-    "Redis/Redis 哨兵.md",
-    "Redis/Redis 数据结构.md"
+    "Redis/Redis 哨兵.md"
   ]
 }
