@@ -1,8 +1,16 @@
 {
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
       "key": "Q"
     }
@@ -10,17 +18,9 @@
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
-      "key": "W"
-    }
-  ],
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "E"
+      "key": "R"
     }
   ]
 }
