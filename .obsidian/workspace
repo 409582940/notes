@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java基础/ArrayList.md",
+            "file": "Redis/AOF.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java基础/ArrayList.md",
+                "file": "Redis/AOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "eb93e9f4ea7564ae",
   "lastOpenFiles": [
-    "Java基础/ArrayList.md",
-    "Java基础/锁.md",
-    "Java基础/BIO、NIO、AIO.md",
+    "Redis/AOF.md",
+    "Redis/事务.md",
+    "Redis/慢查询日志.md",
+    "Redis/缓存更新策略.md",
+    "MySQL/MySQL 索引.md",
+    "MySQL/MySQL 事务.md",
+    "MySQL/InnoDB.md",
+    "JVM/垃圾收集算法.md",
     "JVM/类加载机制与对象的创建.md",
-    "Java基础/基础问题.md",
-    "JVM/运行时内存区域.md",
-    "JVM/垃圾收集器.md",
-    "JVM/class 文件结构.md",
-    "RocketMQ/基本概念.md",
-    "Java基础/Stream.md"
+    "JVM/垃圾收集器.md"
   ]
 }
