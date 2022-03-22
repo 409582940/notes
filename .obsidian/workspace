@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "算法和数据结构/基础算法模板.md",
+            "file": "Java基础/ArrayList.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法和数据结构/基础算法模板.md",
+                "file": "Java基础/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "eb93e9f4ea7564ae",
   "lastOpenFiles": [
-    "算法和数据结构/基础算法模板.md",
-    "RocketMQ/基本概念.md",
-    "MySQL/MySQL 索引.md",
-    "JVM/类加载机制.md",
+    "Java基础/ArrayList.md",
+    "Java基础/锁.md",
+    "Java基础/BIO、NIO、AIO.md",
+    "JVM/类加载机制与对象的创建.md",
+    "Java基础/基础问题.md",
+    "JVM/运行时内存区域.md",
+    "JVM/垃圾收集器.md",
     "JVM/class 文件结构.md",
-    "操作系统/Linux 常用命令.md",
-    "Spring/源码/Spring MVC 请求执行过程.md",
-    "Spring/源码/Spring 传播特性.md",
-    "Spring/源码/Spring 声明式事务的运行流程.md",
-    "Spring/源码/Spring 注解配置的注解配置的声明式事务处理.md"
+    "RocketMQ/基本概念.md",
+    "Java基础/Stream.md"
   ]
 }
