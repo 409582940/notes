@@ -91,13 +91,13 @@
   "lastOpenFiles": [
     "Redis/AOF.md",
     "Redis/事务.md",
-    "Redis/慢查询日志.md",
+    "Redis/分布式锁.md",
     "Redis/缓存更新策略.md",
-    "MySQL/MySQL 索引.md",
-    "MySQL/MySQL 事务.md",
-    "MySQL/InnoDB.md",
+    "MySQL/MySQL 执行计划.md",
+    "RocketMQ/常见问题.md",
+    "Java基础/锁.md",
+    "JVM/Java内存模型.md",
     "JVM/垃圾收集算法.md",
-    "JVM/类加载机制与对象的创建.md",
-    "JVM/垃圾收集器.md"
+    "JVM/class 文件结构.md"
   ]
 }
